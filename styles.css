@@ -1,0 +1,25 @@
+.output {
+    font-family: "Courier New";
+    font-size: .9rem;
+}
+
+.pin {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+form {
+    margin-top: 40px;
+}
+
+label {
+    display: block;
+}
+
+#md5 {
+    margin-top: 20px;
+}
+
+.reset {
+    margin-top: 20px;
+}
